@@ -1,2 +1,2 @@
-# random-slider
+# Random Slider
 Random product slider
